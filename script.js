@@ -93,3 +93,8 @@
 // }
 //  let button = document.querySelector('Button');
 //  button.onclikc = pressButton;
+
+let user = {
+    name: 'Gena';
+    age: 25
+}
